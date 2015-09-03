@@ -14,7 +14,7 @@ Por fim foi realizado o commit com o comando `git commit -m "mensagem"`.
 
 Primeiro é preciso criar um repositório na conta do GitHub, uma vez criado passamos para o envio ao mesmo.
 
-###Para enviar os arquivos ao GitHub, precisamos adicionar o repositório, no meu caso `https://github.com/masptj/teste_git.git`
+**Para enviar os arquivos ao GitHub, precisamos adicionar o repositório, no meu caso *https://github.com/masptj/teste_git.git
 
 O comando para adicionar as informações do repositório remoto localmente aqui nomeado "origin": `git remote add origin https://github.com/masptj/teste_git`
 
